@@ -82,3 +82,8 @@ Male customers contributed a larger share of total sales in the dataset
 This Power BI dashboard transforms raw retail shopping data into meaningful business insights through interactive visualizations and analytical reporting. It enables users to explore market behavior, customer preferences, and sales performance efficiently, helping support smarter business decisions.
 
 ALSO VIEW DASHBOARDS : 
+https://github.com/Puneeth10022004/MARKET-TRENDS-PBI/blob/main/DASHBOARD%203.png
+
+
+
+
